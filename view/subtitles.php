@@ -39,6 +39,9 @@
          <h3><a href="http://www.ilgattohanuovecode.it/">Il gatto ha nuove code</a></h3>
          <h1><?php echo utf8_decode('Fast titles') ?> <small><?php echo utf8_decode(' for final cut pro') ?></small></h1>  
          <div class="clearfix"></div>
+         <div class="tool-online">
+             This tool is also online at <a href="http://www.ilgattohanuovecode.it/tool/final-cut-fast-titles/">www.ilgattohanuovecode.it/tool/final-cut-fast-titles/</a>
+         </div>
        </div>
        
        

@@ -254,6 +254,14 @@ font-family: 'Roboto Slab', serif;
 .social-likes__widget {margin: 4px !important}
 .social-likes__widget:hover span {color: #fff !important;}
 
+.tool-online {
+    background-color: #1490a7;
+    color: #fff;
+    padding: 5px 10px;
+    display: inline;
+    border-radius: 3px;
+}
+.tool-online a {color: #fff;}
 #thanks {
     background: #f4f5f5;
     padding: 15px 0;
