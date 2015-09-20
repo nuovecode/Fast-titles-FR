@@ -253,3 +253,27 @@ font-family: 'Roboto Slab', serif;
 .social-likes  {padding: 20px 0 0 0 !important;}
 .social-likes__widget {margin: 4px !important}
 .social-likes__widget:hover span {color: #fff !important;}
+
+#thanks {
+    background: #f4f5f5;
+    padding: 15px 0;
+}
+#thanks  .col {
+    border-right: 1px solid #253240;
+    padding: 25px 15px;
+}
+#thanks  .col:first-child {text-align: center}
+#thanks  .col:last-child {border: none;}
+#thanks h1 {
+    font-weight: bold;
+    font-family: 'Roboto Slab', serif;
+    font-size: 50px;
+}
+#thanks h5 {
+    font-weight: bold;
+    font-family: 'Roboto Slab', serif;
+}
+
+#thanks p {
+    font-size: 11px;
+}
