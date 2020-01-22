@@ -1,5 +1,5 @@
-# FAST TITLES - French version#
-@nuovecode
+# FAST TITLES - French version
+
 
 
 * Thanks to Eric Guichaoua: [http://ericguichaoua.fr/](http://ericguichaoua.fr/)
